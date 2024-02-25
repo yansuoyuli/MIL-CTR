@@ -7,7 +7,7 @@ This is an official implementation of ***MIL-CTR*** for CTR prediction task
 
 ## Dependencies
 
-RE-SORT has the following dependencies:
+MIL-CTR has the following dependencies:
 
 + python 3.6+
 + pytorch 1.10+ 
